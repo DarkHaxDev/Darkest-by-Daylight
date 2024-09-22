@@ -1,0 +1,8 @@
+resistances: .stun 50% .poison 50% .bleed 50% .disease 30% .move 20% .debuff 30% .death_blow 70% .trap 40%
+crit: .effects "on_crit_dmg"
+weapon: .name "shape_weapon_0" .atk 0% .dmg 7 12 .crit 5% .spd 4
+weapon: .name "shape_weapon_1" .atk 0% .dmg 8 14 .crit 5% .spd 4 .upgradeRequirementCode 0
+weapon: .name "shape_weapon_2" .atk 0% .dmg 9 16 .crit 5% .spd 4 .upgradeRequirementCode 1
+weapon: .name "shape_weapon_3" .atk 0% .dmg 11 18 .crit 5% .spd 4 .upgradeRequirementCode 2
+weapon: .name "shape_weapon_4" .atk 0% .dmg 12 21 .crit 5% .spd 4 .upgradeRequirementCode 3
+armour: .name "shape_armour_0"
